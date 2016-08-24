@@ -1,4 +1,4 @@
-# CakePHP Application Skeleton
+# CakePHP 3.3 Application Skeleton
 
 A skeleton for creating applications with CakePHP Version 3
 
