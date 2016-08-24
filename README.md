@@ -15,5 +15,5 @@ A skeleton for creating applications with CakePHP Version 3
 
 ## Developer
 
-Md. Ziyed Uddin
+Md. Ziyed Uddin,<br/>
 Senior Software Engineer
